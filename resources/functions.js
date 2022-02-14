@@ -9,3 +9,9 @@ function Send(){
         alert("Please fill the information...");
     }
 }
+
+let changeBackground = () => {
+    document.querySelector("body").style.background = "black";
+}
+
+setTime

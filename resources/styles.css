@@ -9,7 +9,7 @@ h1 {
 }
 
 .textfield {
-  border: 2px solid blue;
+  border: 2px solid rgb(10, 10, 12);
 }
 
 .backgroundfield {
@@ -17,15 +17,15 @@ h1 {
 }
 
 #txtEmail {
-  background-color: indianred;
+  background-color: rgba(100, 100, 100, 0.5);
 }
 
 .btn {
-  border: 1px double gray;
-  background: khaki;
+  border: 1px double #545454;
+  background: #efefef;
 }
 
 .btn:hover {
-  background: lightcoral;
+  background: #ff00ff;
   cursor: pointer;
 }
